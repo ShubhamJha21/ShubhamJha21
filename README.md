@@ -24,11 +24,6 @@ Hi I am **Shubham Jha** 23-years-old **Artificial Intelligence Enthusiast**, hav
     - 🏅 Databases: Mongo DB, PHP MySQL, SQLite
     - 🏅 Platforms: Anaconda, Jupiter Notebook, PyCharm IDE, Visual Studio, Python, Docker, Postman, Windows, Git
 
-- **💼Nontechnical Skills:**
-    - 🏅 Story Telling
-    - 🏅 Being Organized
-    - 🏅 Team Management
-    - 🏅 Business Awareness
 
 - 🤝**Connect Me**
     - https://www.linkedin.com/in/shubham-jha-23b5731aa/

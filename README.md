@@ -26,6 +26,6 @@ Hi I am **Shubham Jha** 23-years-old **Artificial Intelligence Enthusiast**, hav
 
 
 - 🤝**Connect Me**
-    - https://www.linkedin.com/in/shubham-jha-23b5731aa/
+    - https://www.linkedin.com/in/shubhamjha21/
 - **Scroll Down, Clone Repository & Start Learning:)**
 - **Give ⭐ if it is helpful for you in anyways :)**

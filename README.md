@@ -10,7 +10,7 @@ Hi I am **Shubham Jha** 23-years-old **Artificial Intelligence Enthusiast**, hav
     - 👉 Experienced in all phases of the Data Science life-cycle (Data-Collection, Data Preparation, Exploratory Data Analysis (EDA), Modelling, Model Evaluation, Model Deployment, Business Understanding).
     - 👉 Expertise in manipulating and analyzing complex, high-volume, high-dimensionality data from varying data sources.
 
-- 🎓Education: Bachelor in Electronics & Communication from Rajasthan Technical University Kota in 2019
+- 🎓Education: Bachelor in Electronics & Communication in 2019
 
 - 🤹 **Technical Skills:**
 

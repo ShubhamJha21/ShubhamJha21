@@ -1,7 +1,7 @@
 # About
-Hi I am **Shubham Jha** 24-years-old **Artificial Intelligence Enthusiast**, have experience in executing **full life-cycle Data Science projects**; ramping up projects with quality parameter, targeting assignments in **Data Science, Machine Learning and Deep Learning with Features Selection & Feature Engineering techniques**.
+Hi I am **Shubham Jha** **Artificial Intelligence Enthusiast**, have experience in executing **full life-cycle Data Science projects**; ramping up projects with quality parameter, targeting assignments in **Data Science, Machine Learning and Deep Learning with Features Selection & Feature Engineering techniques**.
 - 💻 **Profile Summary:**
-    - 👉 Self-taught **Jr.Data Scientist & Machine Learning Engineer**,Open to work in Data Science & Machine Learning.
+    - 👉 **Data Science & Machine Learning Engineer**,Open to work in Data Science & Machine Learning.
     - 👉 Experience in architecting Artificial Intelligence applications with Machine Learning, Deep Learning with Python. Deep Learning Techniques includes ANN, CNN, RNN, RNN with LSTM.
     - 👉 Skilled in libraries such as Keras, TensorFlow, Sklearn, NumPy, Pandas, Matplotlib, Flask, Flasgger, Beautiful Soup4, mlxtend, OpenCV.
     - 👉knowledge of working with NoSQL databases like Mongo dB and SQL databases like MySQL and SQL Server.
